@@ -1,3 +1,11 @@
+# Problem statement
+In many organisations, handling customer support tickets is a resource‑intensive task: manual categorisation, routing, response generation and feedback collection all require human intervention. This leads to slower resolution times, inconsistent responses, and high operational costs.  
+Our goal is to build an *AI-powered customer service agent* that can:  
+- Automatically ingest support ticket text (voice or text) and understand the customer issue.  
+- Retrieve the most relevant past tickets or knowledge documents to ground its response.  
+- Generate a context-aware, professional answer to the customer query, and optionally escalate complex cases.  
+- Provide insights on customer sentiment, common issues, and resolution efficiency.
+
 # Telecom AI Agent with Multi-Agent Architecture
 
 This project is a complete multi-agent RAG (Retrieval-Augmented Generation) system designed for a 24-hour hackathon. It provides a REST API for interacting with a telecom AI that can handle support queries and automate tasks.
